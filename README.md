@@ -1,6 +1,8 @@
-### Hi there 👋
-
+# 7 WONDERS OF THE WORLD 
+1. TAJMAHAL
+1. PYRAMID
 <!--
+
 **rameshpangare/rameshpangare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
